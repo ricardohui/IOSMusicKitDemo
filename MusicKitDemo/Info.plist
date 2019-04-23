@@ -34,7 +34,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>kTCCServiceMediaLibrary</key>
+	<key>NSAppleMusicUsageDescription</key>
 	<string>We need your songs!</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
